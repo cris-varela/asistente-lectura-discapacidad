@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Data (NO subir textos al repositorio por copyright)
+data/raw/*.txt
+data/raw/*.jpg
+data/raw/*.png
+data/raw/*.pdf
+data/processed/*.csv
+data/processed/*.json
+
+# Modelos entrenados (son muy pesados)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+models/*.pkl
+
+# Base de datos local
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración local
+.env
+.env.local
+config_local.py
+
+# Outputs temporales
+outputs/temp/
+*.tmp
+
+# PyTest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
