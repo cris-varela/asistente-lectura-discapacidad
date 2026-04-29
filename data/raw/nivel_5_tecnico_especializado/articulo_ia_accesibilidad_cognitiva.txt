@@ -1,0 +1,50 @@
+Tras utilizar la IA generativa en ‘El Eternauta’, Netflix corre el riesgo de dejar atrás a espectadores y creadores
+
+
+
+El reciente uso de la IA generativa por parte de Netflix para escenificar el derrumbe de un edificio en la serie de ciencia ficción El Eternauta supone mucho más que un hito tecnológico. Revela una tensión psicológica fundamental sobre la autenticidad del entretenimiento.
+
+La secuencia representa el primer uso oficial de esta tecnología en el metraje final por parte del gigante del streaming. Según Netflix, se completó diez veces más rápido de lo que habrían permitido los métodos tradicionales.
+
+Sin embargo, esta ganancia en eficiencia pone de relieve una cuestión más profunda, arraigada en la psicología humana. Cuando los espectadores descubren que su entretenimiento contiene IA, ¿desencadena esta revelación de la autoría algorítmica la misma disonancia cognitiva que experimentamos cuando descubrimos que hemos sido seducidos por la desinformación?
+
+El paso del CGI (las imágenes generadas por ordenador) tradicional a la IA generativa es el cambio más significativo en los efectos visuales (VFX) desde que los gráficos por ordenador sustituyeron a los efectos físicos.
+
+Los VFX tradicionales requieren legiones de artistas que crean meticulosamente modelos basados en mallas y pasan semanas perfeccionando la geometría, la iluminación y la animación de cada elemento. Incluso el uso de CGI con pantallas verdes exige que los artistas construyan cada elemento digital a partir de modelos 3D y programen las simulaciones. Tienen que crear manualmente fotogramas clave para cada momento, estableciendo puntos que muestren cómo se mueven o cambian las cosas.
+
+Con la IA generativa, los artistas simplemente describen lo que quieren y los algoritmos generan secuencias completas al instante. Esto convierte un trabajo lento y laborioso en algo más parecido a una conversación creativa. Pero también plantea preguntas difíciles. ¿Estamos asistiendo a una nueva etapa de la tecnología o a la sustitución de la creatividad humana por conjeturas algorítmicas?
+
+La escena del derrumbe del edificio de El Eternauta demuestra claramente esta transformación. Lo que antes habría requerido meses de trabajo de modelado, rigging y simulación, se ha logrado mediante la generación de texto a vídeo en una fracción del tiempo.
+
+Los factores económicos que impulsan esta transformación van mucho más allá de las ambiciones creativas de Netflix.
+
+Se prevé que el mercado de la IA de texto a vídeo alcance un valor de más de 1 500 millones de euros en 2029. Esto refleja una industria que busca recortar gastos tras 2022, cuando el presupuesto para contenidos de Netflix descendió un 4,6 %, mientras que Disney y otros grandes estudios implementaron medidas generalizadas de recortes.
+
+La disrupción en costes es desconcertante. Las secuencias tradicionales de efectos visuales pueden costar miles de dólares por minuto. Como resultado, el presupuesto medio para CGI y efectos visuales en las películas estadounidenses alcanzó los 33,7 millones de dólares por película en 2018. La IA generativa podría suponer una reducción de costes del 10 % en toda la industria de los medios de comunicación y de hasta un 30 % en televisión y cine. Esto permitirá a los cineastas independientes hacer realidad visiones creativas que antes eran imposibles. Pero esta mayor accesibilidad también conlleva pérdidas.
+
+La OCDE informa de que el 27 % de los puestos de trabajo en todo el mundo corren un “alto riesgo de automatización” debido a la IA. Por otra parte, encuestas realizadas por la Alianza Internacional de Empleados de Teatro han revelado que el 70 % de los trabajadores de efectos visuales realizan horas extras no remuneradas y solo el 12 % tiene seguro médico. Es evidente que la industria ya se encuentra bajo presión.
+
+Poder frente a precisión
+Si bien la IA ofrece a los cineastas un acceso sin precedentes a la fabricación de imágenes complejas, al mismo tiempo les priva del control minucioso que define la visión del director.
+
+A modo de experimento, el director de cine Ascanio Malgarini dedicó un año a crear un cortometraje generado por IA titulado Kraken (2025). Utilizó herramientas de IA como MidJourney, Kling, Runway y Sora, pero descubrió que “el control total sobre cada detalle” era “simplemente imposible”.
+
+Malgarini describió su trabajo como el de un editor de documentales. En lugar de dirigir tomas precisas, reunió “una gran cantidad de material de diferentes fuentes”.Y no solo los cineastas prefieren el toque humano. En el mundo del arte, los estudios han demostrado que los espectadores prefieren claramente las obras originales a las copias perfectas generadas por IA. Los participantes citaron la sensibilidad hacia el proceso creativo como fundamental para la apreciación.
+
+Cuando se aplica al contenido generado por IA, este sesgo crea contradicciones fascinantes. Una investigación reciente publicada en Frontiers in Psychology descubrió que, cuando los participantes desconocían el origen, preferían significativamente las obras de arte generadas por IA a las creadas por humanos. Sin embargo, una vez revelada la autoría de la IA, el mismo contenido sufrió una reducción en la percepción de autenticidad y creatividad.
+
+El ajuste de cuentas de Hollywood con la IA
+Los avances en IA se están produciendo en un vacío normativo. Aunque el Congreso de los Estados Unidos celebró múltiples audiencias sobre IA en 2023, no existe una legislación federal integral que regule su uso en Hollywood. La ley estadounidense sobre divulgación de derechos de autor de la IA generativa, actualmente paralizada, deja a los creadores sin protección jurídica, ya que las empresas utilizan sistemas de IA entrenados con materiales que pueden estar protegidos por derechos de autor.
+
+Las huelgas de Hollywood de 2023 cristalizaron estos temores de la industria. Los guionistas consiguieron protecciones que garantizan que la IA no pueda escribir ni reescribir material, mientras que los actores negociaron la necesidad de pedir consentimiento para las réplicas digitales. Sin embargo, estos acuerdos cubren principalmente a los directores, productores e intérpretes principales, que son los que tienen más poder de negociación, mientras que los trabajadores de efectos visuales siguen siendo vulnerables.
+
+Los litigios por derechos de autor están empezando a dominar el panorama: desde 2020 se han presentado más de 30 demandas por infracción contra empresas de IA. La histórica demanda de Disney y Universal en junio de 2025 contra Midjourney representa el primer desafío importante de los grandes estudios en materia de derechos de autor, alegando que la empresa de IA creó un “pozo sin fondo de plagio” al entrenar sin permiso a sus modelos con personajes protegidos por derechos de autor.
+
+Mientras tanto, los tribunales federales de Estados Unidos han dictado sentencias contradictorias. Un juez de Delaware falló en contra de la empresa de IA Ross Intelligence por entrenar a su tecnología con contenido legal protegido por derechos de autor, mientras que otros se han inclinado parcialmente a favor de las defensas del uso legítimo.
+
+El sector se enfrenta a un problema de aceleración: los avances en IA superan las negociaciones contractuales y la adaptación psicológica. Esta tecnología está remodelando las demandas de la industria, pero el 96 % de los artistas de efectos visuales afirman no haber recibido formación específica, y el 31 % citan esto como un obstáculo para incorporar la IA en su trabajo.
+
+La integración de la IA en Netflix demuestra que Hollywood se enfrenta a cuestiones fundamentales sobre la creatividad, la autenticidad y el valor humano en el mundo del entretenimiento. Sin una regulación integral y programas de reciclaje profesional, la industria corre el riesgo de un futuro en el que los avances tecnológicos sean más rápidos que los marcos legales, los trabajadores y la aceptación pública.
+
+A medida que el público empieza a reconocer la mano invisible de la IA en el entretenimiento, la industria debe hacer frente no solo a la disrupción económica, sino también a los sesgos cognitivos que determinan cómo percibimos y valoramos el trabajo creativo.
+

@@ -1,0 +1,27 @@
+La campaña "QuitGPT" insta a las personas a cancelar sus suscripciones a ChatGPT
+Los responsables de OpenAI, la compañía tras el desarrollo de ChatGPT, han donado millones de dólares a MAGA Inc., y su tecnología es usada por el ICE.
+
+ara muchas personas, hablar de inteligencia artificial es hablar prácticamente de ChatGPT. El bot conversacional desarrollado por OpenAI ha logrado convertirse en un sinónimo de esta tecnología que las grandes corporaciones no paran de anunciar como la siguiente gran revolución del mundo (aunque una encuesta realizada a más de 4.400 directores líderes empresariales concluyó que todavía no había aportado ningún beneficio, pero sí considerables gastos).
+
+La herramienta de Sam Altman, al momento de escribir estas líneas, no tiene rival: más de 800 millones de personas confían en ella semanalmente para realizar todo tipo de tareas. Ya sea escribir un correo electrónico, analizar datos o generar una imagen que sirva para ilustrar su trabajo, han encontrado en ChatGPT un fiel aliado del que ya resulta difícil despedirse. Aunque no es perfecto, acostumbrarse a lo bueno es muy fácil, y perderlo es muy difícil.
+
+Aunque Gemini de Google está cobrando cada vez más relevancia (los últimos datos apuntan a más de 750 millones de usuarios mensuales, bastante cerca la IA de OpenAI), de momento, ChatGPT puede respirar tranquilo. A no ser que prospere la campaña ‘QuitGPT’, ya que entonces la compañía cofundada por Elon Musk (aunque el magnate la abandonó hace unos años por diferencias y conflictos de intereses) tendría que encontrar la manera de volver a ganarse la confianza de la gente.
+
+Más de un millón de personas se ha sumado a la iniciativa, y subiendo
+
+
+La campaña ‘QuitGPT’ busca concienciar a los usuarios estadounidenses y personas de todo el mundo para que dejen de utilizar ChatGPT. Según el sitio web quitgpt.org, “ChatGPT ha estado perdiendo cuota de mercado. Su creador, OpenAI, pierde tres veces más de lo que gana. Los usuarios de ChatGPT tienden a ser jóvenes y progresistas, y muchos no conocen las alternativas. Podemos hacer caer a OpenAI. Si hacemos un ejemplo de ChatGPT, podemos enviar una señal clara a los facilitadores de ICE de que sus acciones no quedarán impunes”.
+
+Hagamos que los CEO lo piensen dos veces antes de aliarse con Trump
+
+Los organizadores del boicot son un grupo de activistas por la democracia, gravemente preocupados por la contribución de las empresas de IA al auge del autoritarismo en Estados Unidos. Como recoge el sitio web, “el presidente de OpenAI, Greg Brockman, y su esposa donaron 25 millones de dólares a MAGA Inc. en 2025, y Sam Altman, CEO de OpenAI, donó 1 millón de dólares al Fondo Inaugural de Trump 2025”. Al parecer, dieron a Trump 26 veces más que cualquier otra gran empresa de IA, y las herramientas de selección de currículums de ICE funcionan con el modelo GPT-4 de OpenAI.
+
+Aparte de las polémicas y duras decisiones de Trump y el ICE (que han acabado con la vida de algunos estadounidenses) quitgpt.org continúa su alegato afirmando que “ChatGPT fomenta las crisis de salud mental a través de la adulación (una de las mayores críticas al chatbot) y la dependencia, reemplazando las relaciones humanas con novios/novias de IA. Muchos empleados han dejado OpenAI debido a las mentiras, engaños e irresponsabilidad de su liderazgo”.
+
+Al momento de escribir estas líneas, en la parte superior del sitio web hay un contador que afirma que casi 1.210.000 personas se ha comprometido a dejar de usar ChatGPT, cancelar su suscripción de pago y compartir en sus redes sociales y a sus amigos la iniciativa, para que llegue al mayor número de usuarios posible.
+
+En la web también se desaconseja el uso de Grok, el bot conversacional de xAI, la compañía de inteligencia artificial de Elon Musk. Desde su lanzamiento, Grok se ha caracterizado por ofrecer unas respuestas altamente polémicas y controvertidas, alabando el nazismo y a Hitler, además de insultar a figuras históricas como el fundador de Turquía.
+
+Si utilizar un chatbot se ha vuelto algo imprescindible para ti, quitgpt.org nombra algunas alternativas, recomendando las propuestas de mayor privacidad y código abierto Confer, Alpine y Lumo. También recomienda las corporativas Gemini de Google y Claude de Anthropic, que a pesar de que pertenecen a compañías importantes del sector (sobre todo Gemini), parece que no son tan polémicas como ChatGPT.
+
+¿Tendrá éxito el boicot a ChatGPT? Es difícil saberlo. Si los medios de comunicación se hacen eco de él, más y más personas sabrán de la iniciativa y de los motivos que han llevado a los organizadores a impulsarla, ya que no tiene que ver con acabar con la inteligencia artificial, sino de no apoyar a una compañía que ha mostrado su apoyo a Donald Trump y proporciona su tecnología al ICE.
