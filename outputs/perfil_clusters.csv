@@ -1,0 +1,11 @@
+cluster,nivel_preferido,tasa_completado,tiempo_lectura_min,aciertos_comprension,sesiones_semana,nivel_maximo_alcanzado,nombre
+0,2.016,0.802,12.82,0.722,2.956,2.006,Lector Elemental Consolidado
+1,4.979,0.935,3.073,0.909,4.958,4.969,Lector Independiente
+2,1.037,0.611,22.161,0.521,1.973,1.044,Lector Inicial con Dificultades
+3,4.012,0.876,6.141,0.845,3.979,4.019,Lector Avanzado Emergente
+4,1.027,0.397,27.673,0.3,1.067,1.049,Lector Inicial con Dificultades
+5,3.013,0.864,8.157,0.799,4.026,2.99,Lector Intermedio Progresivo
+6,1.992,0.7,17.121,0.618,1.964,1.994,Lector Elemental en Desarrollo
+7,4.979,0.972,2.047,0.967,6.986,4.974,Lector Independiente
+8,3.019,0.76,9.961,0.68,3.06,3.024,Lector Intermedio Bajo
+9,4.018,0.906,4.874,0.887,5.033,3.992,Lector Avanzado Consolidado
