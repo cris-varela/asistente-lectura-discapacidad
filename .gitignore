@@ -48,7 +48,7 @@ data/processed/*.json
 *.h5
 *.pt
 *.pth
-models/*.pkl
+
 
 # Base de datos local
 *.db
