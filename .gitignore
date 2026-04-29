@@ -44,7 +44,6 @@ data/processed/*.csv
 data/processed/*.json
 
 # Modelos entrenados (son muy pesados)
-*.pkl
 *.joblib
 *.h5
 *.pt
