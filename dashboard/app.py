@@ -159,9 +159,9 @@ def generar_progreso_temporal(usuario_id, nivel_base):
 @st.cache_resource
 def cargar_modelo():
     rutas = [
-        'notebooks/modelo_clasificador.pkl',
-        'modelo_clasificador.pkl',
-        '../notebooks/modelo_clasificador.pkl'
+    'models/clasificador_embeddings.pkl',
+    'notebooks/modelo_clasificador.pkl',
+    'modelo_clasificador.pkl',
     ]
     for ruta in rutas:
         if os.path.exists(ruta):
