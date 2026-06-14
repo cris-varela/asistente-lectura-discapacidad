@@ -176,7 +176,7 @@ ax2.legend()
 ax2.grid(True, alpha=0.3)
 
 plt.tight_layout()
-plt.savefig('../outputs/elbow_silhouette.png', dpi=150, bbox_inches='tight')
+plt.savefig('outputs/elbow_silhouette.png', dpi=150, bbox_inches='tight')
 plt.close()
 print("   → Guardado: outputs/elbow_silhouette.png")
 
@@ -329,7 +329,7 @@ ax.legend(loc='upper right', fontsize=7, framealpha=0.9)
 ax.grid(True, alpha=0.2)
 
 plt.tight_layout()
-plt.savefig('../outputs/clustering_pca.png', dpi=150, bbox_inches='tight')
+plt.savefig('outputs/clustering_pca.png', dpi=150, bbox_inches='tight')
 plt.close()
 print("   → Guardado: outputs/clustering_pca.png")
 
@@ -369,12 +369,10 @@ for nombre, estrategia in estrategias.items():
 # ============================================================================
 
 # usuarios_clusterizados.csv: datos completos con cluster asignado
-df_usuarios.to_csv('../outputs/usuarios_clusterizados.csv', index=False)
-
+df_usuarios.to_csv('outputs/usuarios_clusterizados.csv', index=False)
 # perfil_clusters.csv: estadísticas medias por cluster (para el dashboard)
 cluster_stats['nombre'] = [nombres_cluster[c] for c in cluster_stats.index]
-cluster_stats.to_csv('../outputs/perfil_clusters.csv')
-
+cluster_stats.to_csv('outputs/perfil_clusters.csv')
 print("\n" + "=" * 60)
 print("✅ CLUSTERING COMPLETADO")
 print("=" * 60)
