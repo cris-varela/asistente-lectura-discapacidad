@@ -198,7 +198,7 @@ def main():
     # ------------------------------------------------------------------
     print("1. Cargando datos...")
     try:
-        df = pd.read_csv('../data/processed/textos_etiquetados.csv')
+        df = pd.read_csv('data/processed/textos_etiquetados.csv')
         print(f"   ✓ Cargados {len(df)} textos")
         print(f"   ✓ Niveles: {sorted(df['nivel'].unique())}")
         print()
